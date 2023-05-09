@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextMovieList2"></style>
+
+    <style name="TextMovieList"></style>
+
+    <style name="TextMovieList3"></style>
+
+    <style name="TextUserList"></style>
+
+    <style name="TextUserList2"></style>
+
+    <style name="TextUserList3"></style>
+
+    <style name="TextUserList4"></style>
+
+    <style name="TextUserList5"></style>
+
+    <style name="RoundedSquare"></style>
+</resources>
